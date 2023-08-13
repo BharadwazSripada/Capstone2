@@ -1,4 +1,4 @@
-S No,Product Name,Factory location,Material category 1,Material category 2,Material category 3,Material category 4,BOM,Consumption,Design Requirement
+S No,Product_name,Factory_location,Material_category_1,Material_category_2,Material_category_3,Material_category_4,BOM,Consumption,Design_Requirement
 1,X,China,Liquids,Polyester,Resin,Resin-TypeA,2467,2529,2000
 2,X,Japan,Liquids,Polyester,Resin,Resin-TypeA,2146,3052,2000
 3,X,Spain,Liquids,Polyester,Resin,Resin-TypeA,2383,3226,2000
