@@ -1,0 +1,11 @@
+S No,Product Name,Factory location,Material category 1,Material category 2,Material category 3,Material category 4,BOM,Consumption,Design Requirement
+1,X,China,Liquids,Polyester,Resin,Resin-TypeA,2467,2529,2000
+2,X,Japan,Liquids,Polyester,Resin,Resin-TypeA,2146,3052,2000
+3,X,Spain,Liquids,Polyester,Resin,Resin-TypeA,2383,3226,2000
+4,X,US,Liquids,Polyester,Resin,Resin-TypeA,2134,2443,2000
+5,X,Canada,Liquids,Polyester,Resin,Resin-TypeA,2111,2455,2000
+6,X,China,Liquids,Adhesive,Glue,Glue-TypeA,650,803,590
+7,X,Japan,Liquids,Adhesive,Glue,Glue-TypeA,790,975,590
+8,X,Spain,Liquids,Adhesive,Glue,Glue-TypeA,622,895,590
+9,X,US,Liquids,Adhesive,Glue,Glue-TypeA,723,871,590
+10,X,Canada,Liquids,Adhesive,Glue,Glue-TypeA,623,863,590
